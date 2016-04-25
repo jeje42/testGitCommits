@@ -9,6 +9,8 @@ public class MainClass {
 		System.out.println("Commit 2");
 		
 		System.out.println("Commit 3");
+		
+		testRebase tR = new testRebase();
 
 	}
 
